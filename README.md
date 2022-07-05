@@ -1,2 +1,2 @@
 # ReactJs
-Created with CodeSandbox
+Made while learning React
